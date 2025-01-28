@@ -83,12 +83,12 @@ Present findings in the following structured format:
 
 1. Project Information Table
 ```
-| Category          | Details                    |
-|-------------------|----------------------------|
-| Drawing Number    |                           |
-| Scale             |                           |
-| Date of Analysis  |                           |
-| Confidence Level  |                           |
+| Field | Value |
+|-------|-------|
+| Drawing Number | [Drawing Number or "Not Detected"] |
+| Scale | [Scale or "Not Detected"] |
+| Date of Analysis | [Date or "Not Detected"] |
+| Confidence Level | [Confidence Level or "Not Detected"] |
 ```
 
 2. Foundation Elements Summary Table
