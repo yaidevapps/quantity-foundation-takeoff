@@ -198,7 +198,9 @@ When encountering issues:
 2. Explain why it's a concern
 3. Suggest alternative approaches
 4. Request specific clarifying information
-5. Document impact on accuracy"""
+5. Document impact on accuracy
+
+"If you understand these instructions, respond with: "I am ready to analyze foundation plans and provide detailed quantity takeoffs following these protocols. Please provide the foundation plan image for analysis."""
             
             # Send all images with the prompt
             messages = [prompt] + processed_images
